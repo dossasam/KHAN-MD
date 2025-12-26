@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "IK~aEVkgCTC#424oHn4-_wX5tjbQMoURfXKBgQaLlhmccIeJ7jaq4y8"
     },  
     
     "STICKER_NAME": {
@@ -83,7 +83,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "SAM BOT",
       "required": false,
       "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
 }, 
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "22896756961"
 
     }, 
 
